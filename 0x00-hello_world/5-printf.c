@@ -1,11 +1,10 @@
 #include <stdio>
 /**
  * main - This program prints using the printf function
- * Return: 0
+ * Return: 0 (Sucess)
  */
-
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n")
-	return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n")
+return (0);
 }
