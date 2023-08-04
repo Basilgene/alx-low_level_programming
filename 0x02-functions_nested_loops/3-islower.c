@@ -14,7 +14,7 @@ int _islower(int c)
 	{
 		if (j == c)
 		{
-		lower = j;
+		lower = 1;
 		}
 	}
 	return (lower);
